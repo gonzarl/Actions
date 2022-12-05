@@ -1,3 +1,5 @@
-  estilo: /estilo.css
+  estilo: 
+  - '*.css'
   
-  estructura: /index.html
+  estructura: 
+  - '*.html'
